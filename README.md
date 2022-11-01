@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...<h1 align="center">Hi 👋, I'm Aparna D</h1>
 <h3 align="center">Student At Mohandas College of Engineering And Technology</h3>
-<img align="right" alt="coding" width="400" src="https://videohive.net/item/4k-digital-computer-data-security-screen-closeup/23252009?irgwc=1&clickid=WrERDHxTJxyNWfrQtGQZjznDUkDXjzwPF2%3Al2M0&iradid=275988&irpid=300699&iradtype=ONLINE_TRACKING_LINK&irmptype=mediapartner&mp_value1=&utm_campaign=af_impact_radius_300699&utm_medium=affiliate&utm_source=impact_radius.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamaparnad&label=Profile%20views&color=0e75b6&style=flat" alt="iamaparnad" /> </p>
 
